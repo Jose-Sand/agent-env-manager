@@ -1,0 +1,16 @@
+{
+  "name": "env-manager",
+  "version": "1.0.0",
+  "description": "Un gestor de entornos de desarrollo que permite crear y administrar fácilmente diferentes configuraciones de entorno para proyectos.",
+  "main": "main.py",
+  "scripts": {
+    "start": "python main.py"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^2.2.0",
+    "argparse": "^1.4.0"
+  }
+}
